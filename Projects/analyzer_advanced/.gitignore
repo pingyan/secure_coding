@@ -1,0 +1,16 @@
+.venv/
+chunks/
+*.wav
+behavior_timeline.json
+behavior_timeline_smoke.json
+final_report.json
+highlights.txt
+calibration.json
+checkpoint.json
+checkpoint_smoke.json
+evaluation_report.json
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+data/
